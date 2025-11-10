@@ -115,13 +115,13 @@ h6 {
   text-decoration: none;
 }
 .nav__burger {
-  background-image: url(../../src/images/icon-burger.svg);
+  background-image: url(../images/icon-burger.svg);
   object-fit: contain;
   background-position: center;
   background-size: 100%;
 }
 .nav__burger:hover {
-  background-image: url(../../src/images/icon-burger-hover.svg);
+  background-image: url(../images/icon-burger-hover.svg);
 }
 
 .phone-container {
